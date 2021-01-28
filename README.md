@@ -43,3 +43,6 @@ This analysis showed that the bike sharing activity is very much used by the res
 
 Further analysis could be to analyze the type of users, whether they are workers or leisers bikers.
 An annual analysis could be carried out to evaluate if there is a preference in months of the year for the use of bike sharing.
+ 
+ 
+ https://public.tableau.com/views/Citibike_16118544073760/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
